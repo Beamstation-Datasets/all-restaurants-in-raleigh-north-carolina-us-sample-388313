@@ -1,12 +1,12 @@
 {
-  "export_job_id": "330099b8-2667-4aaf-9970-c5df48241516",
+  "export_job_id": "58ee2feb-2924-47d9-9be6-06e560c8b6ab",
   "id_short": 388313,
-  "published_at": "2026-04-22T07:26:23Z",
+  "published_at": "2026-04-29T07:36:07Z",
   "repo_name": "all-restaurants-in-raleigh-north-carolina-us-sample-388313",
   "sample_asset_name": "beamstation_388313_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/388313/beamstation_388313_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 217,
-  "sample_sha256": "9e1fbfc7f3317878f8e0eebe5f316d1edf3ac6627d4b8dd09c2b7a83b322313a",
-  "sample_size_bytes": 828908,
-  "total_records": 2175
+  "sample_records": 214,
+  "sample_sha256": "625e8858a90184ba22dd4c67d33ea2614ad735fdbaa042e7ef64b510e2d572e4",
+  "sample_size_bytes": 733400,
+  "total_records": 2143
 }
