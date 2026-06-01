@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Raleigh, North Carolina with a population of over 467k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Raleigh, North Carolina, US",
-  "export_job_id": "58ee2feb-2924-47d9-9be6-06e560c8b6ab",
+  "export_job_id": "8679e0b2-4855-4e64-9cab-517b3c59cafd",
   "github_org": "Beamstation-Datasets",
   "id_short": 388313,
   "location_name": "Raleigh",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-raleigh-north-carolina-us-sample-388313",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/388313/beamstation_388313_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 214,
-  "sample_sha256": "625e8858a90184ba22dd4c67d33ea2614ad735fdbaa042e7ef64b510e2d572e4",
-  "sample_size_bytes": 733400,
-  "total_records": 2143,
-  "updated_at": "2026-04-29T02:52:20.136676+00:00"
+  "sample_records": 258,
+  "sample_sha256": "43d5c2a38ce27e6f76282b91e8be25e45c52fb14f50af300d8cd4c025fd5b546",
+  "sample_size_bytes": 967780,
+  "total_records": 2583,
+  "updated_at": "2026-05-14T06:26:58.658508+00:00"
 }
