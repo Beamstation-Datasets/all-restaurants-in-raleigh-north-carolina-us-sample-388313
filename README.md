@@ -1,6 +1,6 @@
 # All Restaurants in Raleigh, North Carolina, US
 
-> Free BeamStation sample export with 214 rows and masked direct-contact fields.
+> Free BeamStation sample export with 258 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `388313` |
 | Location | Raleigh |
 | Category | Restaurants |
-| Full dataset size | 2,143 records |
-| Free sample size | 214 records (9.99%) |
-| Last export | 2026-04-29T02:52:20.136676+00:00 |
+| Full dataset size | 2,583 records |
+| Free sample size | 258 records (9.99%) |
+| Last export | 2026-05-14T06:26:58.658508+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-raleigh-north-carolina-us-sample-388313/releases/download/sample-latest/beamstation_388313_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
